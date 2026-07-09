@@ -1,4 +1,4 @@
-# Hi, I'm Ronald.
+# I'm Ronald.
 
 I’ve spent the last 8 years writing C# and Python. Still debugging. Slowly approaching Zen.
 
