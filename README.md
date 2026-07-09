@@ -1,6 +1,6 @@
 # Hi, I'm Ronald.
 
-I've spent the last 8 years convincing C# and Python to solve corporate problems. Neither of them has asked me to stop yet.
+I’ve spent the last 8 years writing C# and Python. Still debugging. Slowly approaching Zen.
 
 ## What I've Been Working On
 
