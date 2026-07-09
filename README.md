@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ronald.
 
-<!--
-**ronaldbabu/ronaldbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building backend systems with .NET.
 
-Here are some ideas to get you started:
+I've spent the last 8 years working with C#, .NET, Angular, SQL, and Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring distributed systems, local LLMs,
+and AI agents.
+
+## What I've Been Working On
+
+- TickerScanner
+- Local AI agents
+- .NET experiments
