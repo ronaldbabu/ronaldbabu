@@ -1,14 +1,21 @@
 # Hi, I'm Ronald.
 
-Software engineer building backend systems with .NET.
-
-I've spent the last 8 years working with C#, .NET, Angular, SQL, and Azure.
-
-Currently exploring distributed systems, local LLMs,
-and AI agents.
+I've spent the last 8 years convincing C# and Python to solve corporate problems. Neither of them has asked me to stop yet.
 
 ## What I've Been Working On
 
-- TickerScanner
-- Local AI agents
-- .NET experiments
+AI agents, local LLMs, and random ideas that were supposed to be "small weekend projects."
+
+## Connect With Me
+
+Always down to talk code, AI, or ideas we can massively overengineer together.
+
+[Personal Website](https://ronaldbabu.com) | [LinkedIn](https://www.linkedin.com/in/ronald-babu)
+
+## Fun
+
+Outside of code, I'm usually lifting, fishing somewhere in Alberta, following markets, or downloading a local LLM that's definitely too large for my GPU.
+
+Currently trying to convince myself I need more RAM.
+
+I do.
