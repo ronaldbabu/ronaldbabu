@@ -16,6 +16,4 @@ Always down to talk code, AI, or ideas we can massively overengineer together.
 
 Outside of code, I'm usually lifting, fishing somewhere in Alberta, following markets, or downloading a local LLM that's definitely too large for my GPU.
 
-Currently trying to convince myself I need more RAM.
-
-I do.
+Currently building Centauri (https://centaurilabs.org)
