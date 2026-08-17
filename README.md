@@ -6,6 +6,8 @@ I’ve spent the last 8 years writing C#, Python & Go. Still debugging. Slowly a
 
 AI agents, local LLMs, and random ideas that were supposed to be "small weekend projects."
 
+Currently building Centauri https://centaurilabs.org
+
 ## Connect With Me
 
 Always down to talk code, AI, or ideas we can massively overengineer together.
@@ -15,5 +17,3 @@ Always down to talk code, AI, or ideas we can massively overengineer together.
 ## Fun
 
 Outside of code, I'm usually lifting weights, fishing somewhere in Canada, following markets, or downloading a local LLM that's definitely too large for my GPU.
-
-Currently building Centauri https://centaurilabs.org
