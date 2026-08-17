@@ -14,6 +14,6 @@ Always down to talk code, AI, or ideas we can massively overengineer together.
 
 ## Fun
 
-Outside of code, I'm usually lifting, fishing somewhere in Alberta, following markets, or downloading a local LLM that's definitely too large for my GPU.
+Outside of code, I'm usually lifting weights, fishing somewhere in Canada, following markets, or downloading a local LLM that's definitely too large for my GPU.
 
-Currently building Centauri (https://centaurilabs.org)
+Currently building Centauri https://centaurilabs.org
